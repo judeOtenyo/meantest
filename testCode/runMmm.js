@@ -1,4 +1,4 @@
-var dhafu = require('./mmm');
+var dhafu = require('mmm');
 
 var one = 4;
 var two = 1;
