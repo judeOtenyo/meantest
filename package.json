@@ -1,0 +1,29 @@
+{
+  "name": "meantest",
+  "version": "1.0.0",
+  "description": "The first attempt at a MEAN stack app and git repo from book FULL STACK JAVASCRIPT...",
+  "main": "app.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/judeOtenyo/meantest.git"
+  },
+  "keywords": [
+    "mean",
+    "test",
+    "example",
+    "sample",
+    "first"
+  ],
+  "author": "Jude Otenyo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/judeOtenyo/meantest/issues"
+  },
+  "homepage": "https://github.com/judeOtenyo/meantest#readme",
+  "dependencies": {
+    "colors": "^1.1.2"
+  }
+}
